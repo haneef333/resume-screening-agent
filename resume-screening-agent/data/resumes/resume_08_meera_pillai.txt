@@ -1,0 +1,19 @@
+Meera Pillai
+Data Scientist (PhD)
+
+Summary
+PhD in Statistics with 2 years of applied industry experience translating research
+into production machine learning models.
+
+Skills
+Python, R, Statistics, Machine Learning, Deep Learning, PyTorch, Scikit-learn,
+Data Visualization, SQL, Communication skills
+
+Experience
+Data Scientist, HealthAI — Aug 2023 - Present
+- Built predictive models for patient risk stratification using PyTorch
+- Applied advanced statistical methods to clinical datasets
+- Communicated findings to medical stakeholders and leadership
+
+Education
+PhD in Statistics, 2023

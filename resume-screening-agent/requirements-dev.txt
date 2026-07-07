@@ -1,0 +1,8 @@
+-r requirements.txt
+pytest==9.1.1
+
+# Optional: enables higher-quality semantic similarity (embeddings) instead of
+# the TF-IDF fallback. Not required to run the agent — if this isn't
+# installed, or the model can't be downloaded (no internet), the agent
+# automatically and transparently falls back to TF-IDF. See NOTES.md.
+sentence-transformers>=3.0.0

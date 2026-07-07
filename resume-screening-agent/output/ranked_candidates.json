@@ -1,0 +1,373 @@
+[
+  {
+    "file_name": "resume_01_aarav_mehta.txt",
+    "candidate_name": "Aarav Mehta",
+    "final_score": 70.96,
+    "semantic_similarity": 46.93,
+    "similarity_method": "tfidf",
+    "skill_match_pct": 92.86,
+    "experience_match_pct": 100.0,
+    "matched_skills": [
+      "aws",
+      "communication",
+      "data engineering",
+      "data visualization",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "sql",
+      "statistics",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "gcp"
+    ],
+    "candidate_experience_years": 5.0,
+    "candidate_education": "Bachelor's",
+    "reasoning": "Semantic fit with JD (TF-IDF): 47%. Matched 13/14 required skills (aws, communication, data engineering, data visualization, machine learning, numpy, pandas, python, pytorch, scikit-learn, sql, statistics, tensorflow). Missing: gcp. Experience: 5.0 yrs vs 2.0 yrs required.",
+    "rank": 1
+  },
+  {
+    "file_name": "resume_12_isha_choudhary.docx",
+    "candidate_name": "Isha Choudhary",
+    "final_score": 65.31,
+    "semantic_similarity": 45.63,
+    "similarity_method": "tfidf",
+    "skill_match_pct": 78.57,
+    "experience_match_pct": 100.0,
+    "matched_skills": [
+      "aws",
+      "communication",
+      "data engineering",
+      "data visualization",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "python",
+      "scikit-learn",
+      "sql",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "gcp",
+      "pytorch",
+      "statistics"
+    ],
+    "candidate_experience_years": 4.0,
+    "candidate_education": "Bachelor's",
+    "reasoning": "Semantic fit with JD (TF-IDF): 46%. Matched 11/14 required skills (aws, communication, data engineering, data visualization, machine learning, numpy, pandas, python, scikit-learn, sql, tensorflow). Missing: gcp, pytorch, statistics. Experience: 4.0 yrs vs 2.0 yrs required.",
+    "rank": 2
+  },
+  {
+    "file_name": "resume_02_priya_nair.txt",
+    "candidate_name": "Priya Nair",
+    "final_score": 61.04,
+    "semantic_similarity": 37.08,
+    "similarity_method": "tfidf",
+    "skill_match_pct": 78.57,
+    "experience_match_pct": 100.0,
+    "matched_skills": [
+      "aws",
+      "data engineering",
+      "data visualization",
+      "gcp",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "sql"
+    ],
+    "missing_skills": [
+      "communication",
+      "statistics",
+      "tensorflow"
+    ],
+    "candidate_experience_years": 3.0,
+    "candidate_education": "Master's",
+    "reasoning": "Semantic fit with JD (TF-IDF): 37%. Matched 11/14 required skills (aws, data engineering, data visualization, gcp, machine learning, numpy, pandas, python, pytorch, scikit-learn, sql). Missing: communication, statistics, tensorflow. Experience: 3.0 yrs vs 2.0 yrs required.",
+    "rank": 3
+  },
+  {
+    "file_name": "resume_11_rohan_bhatt.pdf",
+    "candidate_name": "Rohan Bhatt",
+    "final_score": 56.49,
+    "semantic_similarity": 37.98,
+    "similarity_method": "tfidf",
+    "skill_match_pct": 64.29,
+    "experience_match_pct": 100.0,
+    "matched_skills": [
+      "aws",
+      "data visualization",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "python",
+      "scikit-learn",
+      "sql",
+      "statistics"
+    ],
+    "missing_skills": [
+      "communication",
+      "data engineering",
+      "gcp",
+      "pytorch",
+      "tensorflow"
+    ],
+    "candidate_experience_years": 3.0,
+    "candidate_education": "Bachelor's",
+    "reasoning": "Semantic fit with JD (TF-IDF): 38%. Matched 9/14 required skills (aws, data visualization, machine learning, numpy, pandas, python, scikit-learn, sql, statistics). Missing: communication, data engineering, gcp, pytorch, tensorflow. Experience: 3.0 yrs vs 2.0 yrs required.",
+    "rank": 4
+  },
+  {
+    "file_name": "resume_08_meera_pillai.txt",
+    "candidate_name": "Meera Pillai",
+    "final_score": 54.32,
+    "semantic_similarity": 38.64,
+    "similarity_method": "tfidf",
+    "skill_match_pct": 57.14,
+    "experience_match_pct": 100.0,
+    "matched_skills": [
+      "communication",
+      "data visualization",
+      "machine learning",
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "sql",
+      "statistics"
+    ],
+    "missing_skills": [
+      "aws",
+      "data engineering",
+      "gcp",
+      "numpy",
+      "pandas",
+      "tensorflow"
+    ],
+    "candidate_experience_years": 3.0,
+    "candidate_education": "PhD",
+    "reasoning": "Semantic fit with JD (TF-IDF): 39%. Matched 8/14 required skills (communication, data visualization, machine learning, python, pytorch, scikit-learn, sql, statistics). Missing: aws, data engineering, gcp, numpy, pandas, tensorflow. Experience: 3.0 yrs vs 2.0 yrs required.",
+    "rank": 5
+  },
+  {
+    "file_name": "resume_04_sneha_iyer.txt",
+    "candidate_name": "Sneha Iyer",
+    "final_score": 51.24,
+    "semantic_similarity": 32.48,
+    "similarity_method": "tfidf",
+    "skill_match_pct": 57.14,
+    "experience_match_pct": 100.0,
+    "matched_skills": [
+      "aws",
+      "data visualization",
+      "machine learning",
+      "python",
+      "scikit-learn",
+      "sql",
+      "statistics",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "communication",
+      "data engineering",
+      "gcp",
+      "numpy",
+      "pandas",
+      "pytorch"
+    ],
+    "candidate_experience_years": 4.0,
+    "candidate_education": "Bachelor's",
+    "reasoning": "Semantic fit with JD (TF-IDF): 32%. Matched 8/14 required skills (aws, data visualization, machine learning, python, scikit-learn, sql, statistics, tensorflow). Missing: communication, data engineering, gcp, numpy, pandas, pytorch. Experience: 4.0 yrs vs 2.0 yrs required.",
+    "rank": 6
+  },
+  {
+    "file_name": "resume_07_vikram_rao.txt",
+    "candidate_name": "Vikram Rao",
+    "final_score": 38.55,
+    "semantic_similarity": 27.1,
+    "similarity_method": "tfidf",
+    "skill_match_pct": 28.57,
+    "experience_match_pct": 100.0,
+    "matched_skills": [
+      "aws",
+      "data engineering",
+      "python",
+      "sql"
+    ],
+    "missing_skills": [
+      "communication",
+      "data visualization",
+      "gcp",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "pytorch",
+      "scikit-learn",
+      "statistics",
+      "tensorflow"
+    ],
+    "candidate_experience_years": 3.0,
+    "candidate_education": "Bachelor's",
+    "reasoning": "Semantic fit with JD (TF-IDF): 27%. Matched 4/14 required skills (aws, data engineering, python, sql). Missing: communication, data visualization, gcp, machine learning, numpy, pandas, pytorch, scikit-learn, statistics, tensorflow. Experience: 3.0 yrs vs 2.0 yrs required.",
+    "rank": 7
+  },
+  {
+    "file_name": "resume_10_divya_krishnan.txt",
+    "candidate_name": "Divya Krishnan",
+    "final_score": 38.46,
+    "semantic_similarity": 16.92,
+    "similarity_method": "tfidf",
+    "skill_match_pct": 42.86,
+    "experience_match_pct": 100.0,
+    "matched_skills": [
+      "data visualization",
+      "machine learning",
+      "pandas",
+      "python",
+      "scikit-learn",
+      "sql"
+    ],
+    "missing_skills": [
+      "aws",
+      "communication",
+      "data engineering",
+      "gcp",
+      "numpy",
+      "pytorch",
+      "statistics",
+      "tensorflow"
+    ],
+    "candidate_experience_years": 2.5,
+    "candidate_education": "Not specified",
+    "reasoning": "Semantic fit with JD (TF-IDF): 17%. Matched 6/14 required skills (data visualization, machine learning, pandas, python, scikit-learn, sql). Missing: aws, communication, data engineering, gcp, numpy, pytorch, statistics, tensorflow. Experience: 2.5 yrs vs 2.0 yrs required.",
+    "rank": 8
+  },
+  {
+    "file_name": "resume_06_ananya_das.txt",
+    "candidate_name": "Ananya Das",
+    "final_score": 38.43,
+    "semantic_similarity": 31.87,
+    "similarity_method": "tfidf",
+    "skill_match_pct": 64.29,
+    "experience_match_pct": 0.0,
+    "matched_skills": [
+      "data visualization",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "python",
+      "scikit-learn",
+      "sql",
+      "statistics",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "aws",
+      "communication",
+      "data engineering",
+      "gcp",
+      "pytorch"
+    ],
+    "candidate_experience_years": 0.0,
+    "candidate_education": "Bachelor's",
+    "reasoning": "Semantic fit with JD (TF-IDF): 32%. Matched 9/14 required skills (data visualization, machine learning, numpy, pandas, python, scikit-learn, sql, statistics, tensorflow). Missing: aws, communication, data engineering, gcp, pytorch. Experience: 0.0 yrs vs 2.0 yrs required.",
+    "rank": 9
+  },
+  {
+    "file_name": "resume_03_rahul_verma.txt",
+    "candidate_name": "Rahul Verma",
+    "final_score": 37.32,
+    "semantic_similarity": 22.15,
+    "similarity_method": "tfidf",
+    "skill_match_pct": 42.86,
+    "experience_match_pct": 75.0,
+    "matched_skills": [
+      "communication",
+      "data visualization",
+      "pandas",
+      "python",
+      "sql",
+      "statistics"
+    ],
+    "missing_skills": [
+      "aws",
+      "data engineering",
+      "gcp",
+      "machine learning",
+      "numpy",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow"
+    ],
+    "candidate_experience_years": 1.5,
+    "candidate_education": "Not specified",
+    "reasoning": "Semantic fit with JD (TF-IDF): 22%. Matched 6/14 required skills (communication, data visualization, pandas, python, sql, statistics). Missing: aws, data engineering, gcp, machine learning, numpy, pytorch, scikit-learn, tensorflow. Experience: 1.5 yrs vs 2.0 yrs required.",
+    "rank": 10
+  },
+  {
+    "file_name": "resume_09_arjun_kapoor.txt",
+    "candidate_name": "Arjun Kapoor",
+    "final_score": 21.51,
+    "semantic_similarity": 8.01,
+    "similarity_method": "tfidf",
+    "skill_match_pct": 7.14,
+    "experience_match_pct": 100.0,
+    "matched_skills": [
+      "communication"
+    ],
+    "missing_skills": [
+      "aws",
+      "data engineering",
+      "data visualization",
+      "gcp",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "sql",
+      "statistics",
+      "tensorflow"
+    ],
+    "candidate_experience_years": 6.0,
+    "candidate_education": "Not specified",
+    "reasoning": "Semantic fit with JD (TF-IDF): 8%. Matched 1/14 required skills (communication). Missing: aws, data engineering, data visualization, gcp, machine learning, numpy, pandas, python, pytorch, scikit-learn, sql, statistics, tensorflow. Experience: 6.0 yrs vs 2.0 yrs required.",
+    "rank": 11
+  },
+  {
+    "file_name": "resume_05_karan_shah.txt",
+    "candidate_name": "Karan Shah",
+    "final_score": 17.32,
+    "semantic_similarity": 4.64,
+    "similarity_method": "tfidf",
+    "skill_match_pct": 0.0,
+    "experience_match_pct": 100.0,
+    "matched_skills": [],
+    "missing_skills": [
+      "aws",
+      "communication",
+      "data engineering",
+      "data visualization",
+      "gcp",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "sql",
+      "statistics",
+      "tensorflow"
+    ],
+    "candidate_experience_years": 4.0,
+    "candidate_education": "Bachelor's",
+    "reasoning": "Semantic fit with JD (TF-IDF): 5%. No required skills matched. Missing: aws, communication, data engineering, data visualization, gcp, machine learning, numpy, pandas, python, pytorch, scikit-learn, sql, statistics, tensorflow. Experience: 4.0 yrs vs 2.0 yrs required.",
+    "rank": 12
+  }
+]

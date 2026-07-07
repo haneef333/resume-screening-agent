@@ -1,0 +1,18 @@
+Vikram Rao
+Data Engineer
+
+Summary
+Data engineer with 3 years of experience building ETL pipelines and data
+infrastructure at scale.
+
+Skills
+Python, SQL, Spark, Hadoop, AWS, Docker, Kubernetes, Git, Data Engineering
+
+Experience
+Data Engineer, ScaleData Inc — Apr 2021 - Present
+- Built ETL pipelines using Spark and Python
+- Managed data infrastructure on AWS
+- Optimized SQL queries for large-scale reporting
+
+Education
+B.Tech in Computer Science, 2021

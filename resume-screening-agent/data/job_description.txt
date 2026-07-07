@@ -1,0 +1,20 @@
+Job Title: Data Scientist
+
+We are looking for a Data Scientist with at least 2 years of experience to join our
+analytics team. The ideal candidate will build and deploy machine learning models,
+analyze large datasets, and communicate insights to stakeholders.
+
+Required Skills:
+- Python, Pandas, NumPy, Scikit-learn
+- SQL for data querying
+- Machine Learning and Statistics
+- Data Visualization (Matplotlib/Seaborn/Tableau)
+- Experience with TensorFlow or PyTorch is a plus
+- Familiarity with AWS or GCP
+- Strong communication skills
+
+Responsibilities:
+- Build predictive models for customer analytics
+- Design and maintain ETL pipelines
+- Present findings to non-technical stakeholders
+- Collaborate with engineering teams on model deployment

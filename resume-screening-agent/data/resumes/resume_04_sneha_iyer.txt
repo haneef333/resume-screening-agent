@@ -1,0 +1,24 @@
+Sneha Iyer
+Data Scientist | Analytics & ML
+
+Profile
+4 years of experience delivering data-driven solutions across retail and fintech.
+Comfortable owning a project from raw data to deployed model.
+
+Technical Skills
+- Languages: Python, SQL, R
+- ML/Stats: Scikit-learn, Statistics, Machine Learning, TensorFlow
+- Visualization: Matplotlib, Tableau
+- Cloud: AWS
+- Tools: Git, Jupyter
+
+Work History
+Data Scientist — FinEdge Solutions (2020 - Present)
+Building fraud-detection and risk-scoring models; working closely with engineering
+to productionize models via REST APIs; presenting findings to leadership.
+
+Junior Analyst — MarketPulse (2019 - 2020)
+Supported quarterly reporting and A/B test analysis.
+
+Education
+B.E. Computer Science, 2019

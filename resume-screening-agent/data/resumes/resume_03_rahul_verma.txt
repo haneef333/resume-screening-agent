@@ -1,0 +1,17 @@
+Rahul Verma
+Data Analyst
+
+Summary
+Data analyst with 1.5 years of experience working with SQL and Excel for
+business reporting.
+
+Skills
+SQL, Excel, Python, Pandas, Data Visualization, Power BI, Communication skills
+
+Experience
+Data Analyst, RetailMetrics — Jul 2023 - Present
+- Built weekly sales reports using SQL and Excel
+- Created dashboards in Power BI for regional managers
+
+Education
+B.Sc in Statistics, 2023

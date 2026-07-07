@@ -1,0 +1,19 @@
+Divya Krishnan
+NLP Engineer
+
+Summary
+NLP engineer with 2.5 years of experience building text classification and
+information retrieval systems.
+
+Skills
+Python, NLP, Machine Learning, Scikit-learn, Pandas, SQL, HuggingFace, LLM,
+Data Visualization, Git
+
+Experience
+NLP Engineer, TextSense AI — Jan 2024 - Present
+- Built text classification models using scikit-learn and HuggingFace transformers
+- Developed a resume-matching prototype using LLM-based similarity scoring
+- Analyzed model performance using Python and Pandas
+
+Education
+M.Sc in Computer Science, 2023

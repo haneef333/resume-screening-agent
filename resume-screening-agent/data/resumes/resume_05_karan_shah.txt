@@ -1,0 +1,17 @@
+Karan Shah
+Frontend Developer
+
+Summary
+Frontend developer with 4 years of experience building responsive web applications.
+
+Skills
+JavaScript, React, HTML, CSS, Git, REST API, Agile
+
+Experience
+Frontend Developer, WebNest — Feb 2020 - Present
+- Built responsive UI components using React
+- Integrated REST APIs into frontend applications
+- Participated in Agile sprint planning
+
+Education
+B.Tech in Information Technology, 2020

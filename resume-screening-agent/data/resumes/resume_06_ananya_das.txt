@@ -1,0 +1,20 @@
+Ananya Das
+Aspiring Data Scientist
+
+Summary
+Recent graduate in Computer Science with a specialization in AI/ML. Strong academic
+project portfolio in machine learning and data analysis. 0.5 years of internship
+experience.
+
+Skills
+Python, Pandas, NumPy, Scikit-learn, SQL, Machine Learning, Statistics,
+Data Visualization, Matplotlib, TensorFlow, Git
+
+Experience
+Data Science Intern, Quantify Labs — Jan 2026 - Jun 2026
+- Built a churn prediction model as part of a team project
+- Cleaned and analyzed customer datasets using Pandas and SQL
+- Created visualizations to communicate findings to the team
+
+Education
+B.Tech in Computer Science (AI/ML specialization), 2026

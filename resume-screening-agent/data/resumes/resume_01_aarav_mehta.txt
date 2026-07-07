@@ -1,0 +1,23 @@
+Aarav Mehta
+Senior Data Scientist
+
+Summary
+Data scientist with 5+ years of experience building and deploying machine learning
+models for customer analytics and churn prediction.
+
+Skills
+Python, Pandas, NumPy, Scikit-learn, SQL, TensorFlow, PyTorch, Machine Learning,
+Statistics, Data Visualization, Matplotlib, AWS, Git, Communication skills
+
+Experience
+Senior Data Scientist, TechCorp — Jan 2019 - Present
+- Built churn prediction models using scikit-learn and TensorFlow
+- Designed and maintained ETL pipelines with SQL and Python
+- Presented model results to business stakeholders monthly
+
+Data Analyst, DataWorks — Jun 2017 - Dec 2018
+- Performed statistical analysis on customer datasets
+- Built dashboards using Tableau
+
+Education
+B.Tech in Computer Science, 2017
